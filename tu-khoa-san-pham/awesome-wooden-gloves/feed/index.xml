@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Awesome Wooden Gloves &#8211; My wordpress</title>
+	<atom:link href="http://localhost/mywordpress/wordpress/tu-khoa-san-pham/awesome-wooden-gloves/feed/" rel="self" type="application/rss+xml" />
+	<link>http://caothithuyduong.github.io/wordpress5</link>
+	<description></description>
+	<lastBuildDate>Thu, 10 Nov 2022 02:32:30 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Awesome Wooden Gloves</title>
+		<link>http://caothithuyduong.github.io/wordpress5/san-pham/awesome-wooden-gloves/</link>
+					<comments>http://caothithuyduong.github.io/wordpress5/san-pham/awesome-wooden-gloves/#respond</comments>
+		
+		<dc:creator><![CDATA[thuyduong]]></dc:creator>
+		<pubDate>Thu, 10 Nov 2022 02:20:53 +0000</pubDate>
+				<guid isPermaLink="false">http://caothithuyduong.github.io/wordpress5/?post_type=product&#038;p=244</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+<div class="woocommerce-product-details__short-description">
+
+Est assumenda eos vero alias voluptatem tenetur atque. Nemo non et fugiat natus dolore minima neque. Odio accusantium voluptate sint in eaque. In consequuntur et nihil unde sapiente consequatur.
+
+</div>
+<div class="product-unit"><span class="title">Unit:</span> <span class="value">Hg</span></div>
+</div>]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce-product-details__short-description">
+<div class="elementor-element elementor-element-da61798 elementor-widget elementor-widget-heading" data-id="da61798" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<p>Voluptatum quisquam aliquam qui accusamus tenetur. Nisi quidem sapiente et illum est fugiat. Dolorem facere iste et quas. Repellendus pariatur ad et sint vitae est ducimus.</p>
+<p>Dolor dolore itaque distinctio sunt ut. Modi voluptas culpa dolor officiis officiis deserunt. Ut soluta explicabo voluptatem voluptatum. Aut modi cupiditate quod cupiditate alias reprehenderit.</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://caothithuyduong.github.io/wordpress5/san-pham/awesome-wooden-gloves/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
